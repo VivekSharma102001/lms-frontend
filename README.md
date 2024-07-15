@@ -34,9 +34,9 @@ cd lms-frontend
 ```
     npm run dev
 ```
-## setpup instruction of tailwindcss
+## Setup instruction of tailwindcss
 
-[Tailwind official instructio docs] [https://tailwindcss.com/docs/guides/vite]
+[Tailwind official instruction docs] [https://tailwindcss.com/docs/guides/vite]
 1. install tailwindcss
 ```
     npm install -D tailwindcss postcss autoprefixer
@@ -45,7 +45,7 @@ cd lms-frontend
 ```
     npx tailwindcss init -p
 ```
-3. Add file extensions to tailwind config file in contents property 
+3. Add file extensions to tailwind config file in the contents property 
 
 ```
   content: [
